@@ -20,9 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-nil_value = 5
-other_value = nil
-other_value + 10 == 15
+    nil_value = 5
+    other_value = nil
+    other_value + 10 == 15
 
 
 ## Contributing
